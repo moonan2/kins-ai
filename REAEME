@@ -1,51 +1,54 @@
 
 
-KINS AI for Nuclear Safety Regulations
-Introduction
+KINS AI for Nuclear Safety
+
+● Introduction
 Welcome to the KINS (Korea Institute of Nuclear Safety) AI for Nuclear Safety Regulations repository! As the AI Specialist at KINS, I'm excited to share with you our practical applications of AI technology in ensuring nuclear safety regulations.
 
-About KINS
+● About KINS
 KINS is a leading institution dedicated to ensuring the safety of nuclear facilities and promoting public health and environmental protection. With decades of expertise in nuclear safety regulations, we are committed to leveraging cutting-edge technologies to enhance our capabilities.
 
-AI Technology in Nuclear Safety
+● AI Technology in Nuclear Safety
 At KINS, we recognize the immense potential of AI in revolutionizing nuclear safety practices. Through advanced machine learning algorithms and data analytics, we aim to:
 
-Improving efficiency for Nuclear facility regulations
-Improving compliance processes
-Advancement plan for Nuclear Safety Knowledge Management
+1. Improving efficiency for Nuclear facility regulations
+2. Improving compliance processes
+3. Advancement plan for Nuclear Safety Knowledge Management
 
-Repository Contents
+● Repository Contents
 In this repository, we provide practical examples and demonstrations of how AI is utilized in nuclear safety regulations. You'll find:
 
 Code Samples: Implementations of AI algorithms for various safety applications.
 Case Studies: Real-world examples showcasing the effectiveness of AI in nuclear safety.
 Documentation: Guides and manuals to assist in understanding our AI solutions.
-Contributing
+
+● Contributing
 We welcome contributions from the community to further advance AI applications in nuclear safety. Whether you're a researcher, developer, or industry expert, your input is valuable to us. Feel free to submit pull requests, open issues, or reach out to us directly.
 
-Stay Connected
+● Stay Connected
 Stay updated with the latest news and developments from KINS AI for Nuclear Safety Regulations:
 
 
-Contact: mhkang@kins.re.kr
+●Contact: mhkang@kins.re.kr
 License
 This project is licensed under the MIT License, which means you are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
 
-KINS AI for Nuclear Safety Regulations
-소개
+
+
+● 소개
 KINS(Korea Institute of Nuclear Safety)의 원자력안전규제를 위한 AI 리포지토리에 오신 것을 환영합니다! KINS의 AI 담당자로서 저는 원자력안전규제에 AI 기술을 활용하는 실용적인 사례들을 여러분께 소개할 수 있어 기쁩니다.
 
-KINS 소개
-KINS는 원자력시설의 안전을 보장하고 공중보건 및 환경보호를 증진하는 데 전념하는 선도적인 기관입니다. 수십 년간의 핵안전규제 전문지식을 보유하고 있으며, 최첨단 기술을 활용하여 역량을 강화하는 데 헌신하고 있습니다.
+● KINS 
+KINS는 원자력시설의 안전을 보장하고 공중보건 및 환경보호를 증진하는 데 전념하는 선도적인 기관입니다. 30여년간의 원자력안전규제 전문지식을 보유하고 있으며, 최첨단 기술을 활용하여 역량을 강화하는 데 헌신하고 있습니다.
 
-원자력안전을 위한 AI 기술
+● 원자력안전을 위한 AI 기술
 KINS에서는 AI가 원자력안전규제를 혁신하는 데 엄청난 잠재력을 가지고 있다고 인식하고 있습니다. 고급 머신러닝 알고리즘과 데이터 분석을 통해 다음과 같은 목표를 달성하고자 합니다:
 
-원자력시설 안전규제 효율성 개선
-규제 준수 과정 개선
-원자력안전 지식관리의 선진화 방안
+1. 원자력시설 안전규제 효율성 개선
+2. 규제 준수 과정 개선
+3. 원자력안전 지식관리의 선진화 방안
 
-이 리포지토리에서는 원자력안전규제에서 AI가 어떻게 활용되고 있는지에 대한 실제 사례와 데모를 제공합니다. 다음과 같은 내용이 포함되어 있습니다:
+● 이 리포지토리에서는 원자력안전규제에서 AI가 어떻게 활용되고 있는지에 대한 실제 사례와 데모를 제공합니다. 다음과 같은 내용이 포함되어 있습니다:
 
 코드 샘플: 다양한 안전 응용 프로그램에 대한 AI 알고리즘 구현.
 사례 연구: 핵안전에서 AI의 효과를 보여주는 실제 사례.
@@ -53,9 +56,9 @@ KINS에서는 AI가 원자력안전규제를 혁신하는 데 엄청난 잠재�
 기여하기
 커뮤니티에서 AI 응용 프로그램을 더 발전시키기 위해 여러분의 기여를 환영합니다. 연구원, 개발자 또는 산업 전문가이든, 여러분의 의견은 저희에게 소중합니다. 풀 리퀘스트를 제출하거나 이슈를 열거나 직접 연락해 주세요.
 
-연락 유지하기
-KINS AI for Nuclear Safety Regulations의 최신 소식과 개발동향을 확인하세요:
+
+KINS AI for Nuclear Safety Regulations의 최신 소식과 개발동향을 확인하세요
 Contact: mhkang@kins.re.kr
 
-라이센스
+● 라이센스
 이 프로젝트는 MIT 라이센스에 따라 라이센스가 부여되었습니다. 이는 상업적 및 비상업적 목적 모두에서 코드를 자유롭게 사용, 수정 및 배포할 수 있음을 의미합니다.
